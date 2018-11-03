@@ -17,6 +17,7 @@
 ## B
 
 - Banner ad，横幅广告
+- bar code，条形码
 - Behavioral segmentation，行为细分
 - Bill presentment，账单显示
 - Board System，电子公告牌（BBS）
@@ -49,9 +50,12 @@
 - Content Management System，内容管理系统（CMS）
 - Conversion Rate，转化率（CR）
 - Cost Per Action，每次动作成本（CPA）
-- Cost Per Click，每点击成本（CPS）
+- Cost Per Click，每点击成本（CPC）
 - Cost Per Sales，按销售额提成付费（CPS）
+- Cost Per Purchase，每次购买成本（CPP）
+- Cost Per Response，每次回应成本（CPR），以浏览者的每一个回应计费。
 - Cost Pre Thousand，每千人成本（CPT）
+- Customer Acquisition Cost，用户获取成本（CAC）
 - Customer life cycle，客户生命周期
 - Customer Relationship Management，客户关系管理（CRM）
 - Cyberspace，赛博空间
@@ -89,9 +93,11 @@
 - File Transfer Protocol，文件传输协议（FTP）
 - Firewall，防火墙
 - Flat-rate access，固定费率访问
+- FPP，零售版（Full Packaged Product）
 - Frame relay，帧中继（FR）
 - Frequently Asked Questions，经常问到的问题（FAQ）
 - Fulfillment manager，订单履行公司
+- Full Packaged Product，零售版（FPP）
 
 ## G
 
@@ -138,8 +144,10 @@
 - Marketing mix，营销组合
 - Masquerading/spoofing，电子伪装
 - Material Request Plan，物料需求计划（MRP）
+- MAU，月活跃数量（Monthly Active User）
 - Micromarketing，微观营销
 - Mobile Commerce，移动电子商务（M-Commerce）
+- Monthly Active User，月活跃数量（MAU）
 
 ## N
 
@@ -172,6 +180,10 @@
 - Secure Electronic Transactions，安全电子交易（SET）
 - Security Electronic Transaction，安全电子交易写一（SET）
 - Security Socket Layer，安全套接层协议（SSL）
+- Shopping cart，购物车
+- Sign in，登录
+- Sign out，注销
+- Signature，签名
 - Single-use card，一次性卡
 - SKU，库存量单位（Stock Keeping Unit）
 - Skyscraper ad，擎天柱广告
