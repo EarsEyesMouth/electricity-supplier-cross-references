@@ -5,12 +5,14 @@
 - Acquisition Cost，客户争取成本
 - Ad-blocking software，广告屏蔽软件
 - Addressable media，可定地址媒体
+- ADimp，单个广告的展示次数（AD impression）
 - Advertising-subscription mixed revenue model，广告-收费混合模式
 - Ad-Words，竞价广告
 - Affiliate marketing，光联营销
 - Agency，代理商
 - Anonymous electric cash，匿名电子现金
 - Application Service Provider，应用服务提供商（ASP）
+- ARPU，每用户平均收入（Average Revenue Per User）
 - Authority to bind，授权承诺
 - Automated clearing house，自动清算所（ACH）
 
@@ -39,6 +41,8 @@
 - Certification Authority，认证机构（CA）
 - Channel distribution manager，分销渠道管理
 - China Financial Certificate Authority，中国金融认证中心（CFCA）
+- Click-Though-Rate，点击率（CTR），点击率 = 点击数 / 展示数
+- Click Value Rate，转化率（CVR）
 - Client/Server，客户端/服务器结构，C/S 结构
 - Client-side electronic wallet，客户机端电子钱包
 - Collaborative Commerce，协同商务（C-Commerce）
@@ -51,10 +55,15 @@
 - Conversion Rate，转化率（CR）
 - Cost Per Action，每次动作成本（CPA）
 - Cost Per Click，每点击成本（CPC）
+- Cost Per Day，每天展示成本（CPD）
+- Cost Per Mille，每千次展示付费（CPM）
 - Cost Per Sales，按销售额提成付费（CPS）
 - Cost Per Purchase，每次购买成本（CPP）
 - Cost Per Response，每次回应成本（CPR），以浏览者的每一个回应计费。
-- Cost Pre Thousand，每千人成本（CPT）
+- Cost per Sales，以实际销售产品数量来换算广告刊登金额（CPS）
+- Cost Per Thousand，每千人成本（CPT）
+- Cost Per Time，每时间段成本（CPT）
+- Cost Perhaps View，每次展示成本（CPV）
 - Customer Acquisition Cost，用户获取成本（CAC）
 - Customer life cycle，客户生命周期
 - Customer Relationship Management，客户关系管理（CRM）
@@ -66,7 +75,9 @@
 - Daily New User，自新增注册用户（DNU）
 - Decision Support System，决策支持系统（DSS）
 - Distributed Data Network，分布式数据网（DDN）
+- DMP，数据管理平台（Data-Management Platform）
 - Double-spending，重复消费
+- DSP，需求方平台（Demand-Side Platform）
 
 ## E
 
@@ -163,13 +174,15 @@
 - Point of sale，零售终端系统（POS）
 - PR，网页排名（PageRank）
 - Private Company Marketplace，专属电子集市
+- Programmatic Advertising，程序化广告
 - Public Key Infrastructure，公开密钥体系（PKI）
 - PV，浏览量（Page View）
 
 ## R
 
 - Retained costs，客户维系成本
-- Return On Investment，投资报酬率（ROI）
+- Return On Investment，投资报酬率（ROI），投资报酬率 = （税前利润 / 投资总额） \* 100%
+- RTB，实时竞价（RealTime Bidding）
 
 ## S
 
@@ -191,6 +204,7 @@
 - Smart card，智能卡
 - Social network，社会网络
 - Spot purchasing，现货采购
+- SSP，供应方平台（Sell-Side Platform）
 - Stakeholders，利益相关体
 - Static catalog，静态商品目录
 - Stock Keeping Unit，库存量单位（SKU），每种产品均对应有唯一的 SKU 号，当其品牌、型号、配置、等级、花色、包装容量、单位、生产日期、保质期、用途、价格、产地等属性中任一属性与其他商品存在不同时 ，可称为一个单品；例如：一件衣服，有红色、白色、蓝色，则 SKU 编码也不相同，如相同则会出现混淆，发错货。
